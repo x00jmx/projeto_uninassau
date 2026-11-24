@@ -87,3 +87,4 @@ Abaixo estão os integrantes do grupo e suas respectivas áreas de atuação na 
 ## 📄 Licença
 
 Este projeto é de caráter estritamente acadêmico desenvolvido para a faculdade **UNINASSAU**.
+# ensalamentoNassau
