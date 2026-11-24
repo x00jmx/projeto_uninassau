@@ -7,8 +7,8 @@ import {
   View,
 } from "react-native";
 
-import { COR } from "../data/cores";
-import type { Sala } from "../data/sala";
+import { COR } from "../../data/cores";
+import type { Sala } from "../../data/sala";
 import ClassCard from "./ClassCard";
 
 

@@ -5,7 +5,7 @@ import {
     View
 } from "react-native";
 
-import { COR } from "../data/cores";
+import { COR } from "../../data/cores";
 
 type HeaderProps = {
   title: string;

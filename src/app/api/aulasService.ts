@@ -1,6 +1,6 @@
-import type { Aula } from '../data/aula';
-import { paraISO, somarDias } from '../data/datas';
-import { QTD_DIAS } from '../data/ensalamento';
+import type { Aula } from '../../data/aula';
+import { paraISO, somarDias } from '../../data/datas';
+import { QTD_DIAS } from '../../data/ensalamento';
 import { MODELO_SEMANAL } from '../mocks/aulasMock';
 
 /**

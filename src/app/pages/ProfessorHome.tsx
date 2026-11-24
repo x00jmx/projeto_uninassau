@@ -17,10 +17,10 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { buscarAulasDaSemana } from '../api/aulasService';
 import ClassSelectionModal from '../components/ClassSelectionModal';
 import Header from '../components/Header';
-import type { Aula, AulasPorDia } from '../data/aula';
-import { COR } from '../data/cores';
-import { formatarIntervalo, inicioDaSemana, paraISO, somarDias } from '../data/datas';
-import { DIAS_ABREV, DIAS_COMPLETO, LARGURA_TABLET, MESES_ABREV, QTD_DIAS } from '../data/ensalamento';
+import type { Aula, AulasPorDia } from '../../data/aula';
+import { COR } from '../../data/cores';
+import { formatarIntervalo, inicioDaSemana, paraISO, somarDias } from '../../data/datas';
+import { DIAS_ABREV, DIAS_COMPLETO, LARGURA_TABLET, MESES_ABREV, QTD_DIAS } from '../../data/ensalamento';
 import { DADOS_SALAS } from '../mocks/salasMock';
 
 /* -------------------------------------------------------------------------- */

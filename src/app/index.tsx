@@ -14,7 +14,7 @@ import {
 } from "react-native";
 
 import Logo from "./components/Logo";
-import { COR } from "./data/cores";
+import { COR } from "../data/cores";
 
 export default function Page() {
   const [matricula, setMatricula] = useState("");

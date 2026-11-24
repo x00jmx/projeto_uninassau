@@ -1,4 +1,4 @@
-import { MESES_ABREV } from '../data/ensalamento';
+import { MESES_ABREV } from './ensalamento';
 
 // Helpers sem biblioteca externa; troque por date-fns/dayjs se preferir.
 

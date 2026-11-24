@@ -1,4 +1,4 @@
-import type { Sala } from "../data/sala";
+import type { Sala } from "../../data/sala";
 
 // dados de exemplo para serem usados no modal
 
